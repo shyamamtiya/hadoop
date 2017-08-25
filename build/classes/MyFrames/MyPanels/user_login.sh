@@ -1,0 +1,1 @@
+su - hadoop -c "whoami"
